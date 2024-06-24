@@ -17,3 +17,7 @@ Thank you Jhy!
 And Thank You Cevin!
 
 <a href="https://github.com/cevin15/MDTool">MDTool</a>
+
+## Download Extension
+
+<a href="https://github.com/bextdev797/MarkdownNotifier/raw/main/out/com.bextdev.MarkdownNotifier.aix">MarkdownNotifier.aix</a>
